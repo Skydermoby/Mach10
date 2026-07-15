@@ -2,6 +2,8 @@
 
 Please note: Some of the other team members do not wish for our repository to go public. To respect their wishes, I will only write general details and include videographed documentation for portfolio purposes.
 
+Link to documentation and videos of my own contributions: https://drive.google.com/drive/folders/1S2WrBIUQLHDQQOLvfriLZJy9JcRk2fo6?usp=sharing
+
 ---
 
 ## Overview
